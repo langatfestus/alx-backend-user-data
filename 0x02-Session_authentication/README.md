@@ -1,0 +1,3 @@
+# Overview
+
+Authentication is the process of verifying the identity of a user, system, or entity attempting to access a resource or perform an action. It ensures that the user or entity is who they claim to be before granting them access to the requested resource or functionality. Authentication can be done through various methods, such as passwords, biometrics, tokens, certificates, and more, depending on the security requirements and the system in use.
